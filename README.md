@@ -82,3 +82,9 @@
     </footer>
 </body>
 </html>
+
+<section>
+    <h2>Unsere Dienstleistungen</h2>
+    <p>Im Musik & Rap Studio bieten wir professionelle Aufnahmen, Musikproduktion, Mixing und Mastering-Services für Künstler aller Genres.</p>
+    <img src="https://images.app.goo.gl/6Tcxr3rABguwgzsS6" alt="Aufnahmestudio">
+</section>
